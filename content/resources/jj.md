@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a simulation for supporting an exercise.
-file: /media/courses/6-763-applied-superconductivity-fall-2005/69b0d2ad457eb35ce00cb05a089ce8fc_jj.m
+file: /courses/6-763-applied-superconductivity-fall-2005/69b0d2ad457eb35ce00cb05a089ce8fc_jj.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: jj.m
 uid: 69b0d2ad-457e-b35c-e00c-b05a089ce8fc
 ---
+This file is a simulation for supporting an exercise.
+

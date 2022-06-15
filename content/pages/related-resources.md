@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: Related resources contains readings and web sites which aid the study
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 96e41366-ac2c-a4c8-3ff3-38f9f5ef1d41
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Main Textbook

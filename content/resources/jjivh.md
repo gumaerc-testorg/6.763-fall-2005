@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a simulation to be used with the assignment file.
-file: /media/courses/6-763-applied-superconductivity-fall-2005/2f902179a626721bad8002c0e14ec043_jjivh.m
+file: /courses/6-763-applied-superconductivity-fall-2005/2f902179a626721bad8002c0e14ec043_jjivh.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: jjivh.m
 uid: 2f902179-a626-721b-ad80-02c0e14ec043
 ---
+This file is a simulation to be used with the assignment file.
+
