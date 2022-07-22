@@ -1,16 +1,25 @@
 ---
 content_type: page
+description: Readings section contains the required text for the course and corresponding
+  chapters and sections for the topics.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 531c852c-9795-9813-de5b-5d8ff6b3f2c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The reading assignments refer to the course textbook:
 
 Orlando, T. P., and K. A. Delin. _Foundations of Applied Superconductivity_. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0201183234.
 
-Please look at the Errata for Foundations of Applied Superconductivity ([PDF]({{< baseurl >}}/resources/errata2))
+Please look at the Errata for Foundations of Applied Superconductivity ({{% resource_link 70ebfbbc-1155-52ad-7639-b29ee66f37fc "PDF" %}})
 
-Related readings can be found in the [related resources]({{< baseurl >}}/pages/related-resources) section.
+Related readings can be found in the {{% resource_link 96e41366-ac2c-a4c8-3ff3-38f9f5ef1d41 "related resources" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
