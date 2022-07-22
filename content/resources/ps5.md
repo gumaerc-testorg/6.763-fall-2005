@@ -5,6 +5,7 @@ file: /courses/6-763-applied-superconductivity-fall-2005/958cd3c5960025dfa4e5f3b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the exercises based on the readings.
-

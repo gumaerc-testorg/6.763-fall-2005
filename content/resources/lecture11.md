@@ -7,6 +7,7 @@ file: /courses/6-763-applied-superconductivity-fall-2005/bd03c313db9f7f52b37b202
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on quantum tunneling, Josephson tunneling, Josephson current-phase and current-voltage relations, basic Josephson junction lumped element, Josephson Effect, DC voltage standard.
-

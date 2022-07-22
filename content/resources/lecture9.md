@@ -7,6 +7,7 @@ file: /courses/6-763-applied-superconductivity-fall-2005/9a9a90e0f02022bd3c47da9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on development of quantum mechanics, schr?dinger's equation, physical meaning of wavefunction and macroscopic quantum model
-
