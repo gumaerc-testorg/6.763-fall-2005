@@ -4,6 +4,7 @@ description: This resource includes information on macroscopic quantum mode, sup
   equation and the london equations, fluxoid quantization, the normal state, quantized
   vortices.
 file: /courses/6-763-applied-superconductivity-fall-2005/29bb21252c2fd3293111508de473d2ac_lecture10.pdf
+file_size: 122963
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

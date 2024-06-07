@@ -2,6 +2,7 @@
 content_type: resource
 description: This file is a simulation for supporting an exercise.
 file: /courses/6-763-applied-superconductivity-fall-2005/69b0d2ad457eb35ce00cb05a089ce8fc_jj.m
+file_size: 524
 file_type: text/plain
 learning_resource_types:
 - Assignments
