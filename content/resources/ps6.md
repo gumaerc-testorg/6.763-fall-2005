@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the questions based on the readings.
 file: /courses/6-763-applied-superconductivity-fall-2005/77244954e61d9734d241b9758f3a5f2a_ps6.pdf
+file_size: 36815
 file_type: application/pdf
 learning_resource_types:
 - Assignments

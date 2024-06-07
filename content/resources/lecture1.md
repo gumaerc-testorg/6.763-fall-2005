@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on superconductor, discovery of superconductivity,
   Meissner effect, high-temperature superconductors, and applications of superconductors.
 file: /courses/6-763-applied-superconductivity-fall-2005/41b2882232b1b43823ec488969c21b6d_lecture1.pdf
+file_size: 241155
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
