@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains exercise based on the readings.
 file: /courses/6-763-applied-superconductivity-fall-2005/a546e968c063a13d55b8160a07c45326_ps3.pdf
+file_size: 36008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
