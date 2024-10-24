@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on description of a perfect diamagnet,
   energy and coenergyin methods I and II and levitating magnets and maglev trains.
-file: /courses/6-763-applied-superconductivity-fall-2005/9ffc7a9396e895a92a0490e49e9e39ad_lecture8.pdf
+file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/9ffc7a9396e895a92a0490e49e9e39ad_lecture8.pdf
 file_size: 152165
 file_type: application/pdf
 learning_resource_types:
