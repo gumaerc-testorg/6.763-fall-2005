@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a simulation to be used with the assignment file.
-file: /courses/6-763-applied-superconductivity-fall-2005/2f902179a626721bad8002c0e14ec043_jjivh.m
+file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/2f902179a626721bad8002c0e14ec043_jjivh.m
 file_size: 992
 file_type: text/plain
 learning_resource_types:
