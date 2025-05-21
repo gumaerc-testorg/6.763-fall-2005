@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on power and energy in a circuit,
   power and energy density in a distributed system, and surface impedance.
-file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/638707f1794cce4a3fc13dff1cddbd4d_lecture6.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/638707f1794cce4a3fc13dff1cddbd4d_lecture6.pdf
 file_size: 99574
 file_type: application/pdf
 learning_resource_types:
