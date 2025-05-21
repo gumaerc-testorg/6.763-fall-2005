@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on DC current drive, overdampedand
   underdamped junctions, return current and dynamical analysis.
-file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/a01d2e4711c3445f86c901f8f9053a3e_lecture13.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/a01d2e4711c3445f86c901f8f9053a3e_lecture13.pdf
 file_size: 1650429
 file_type: application/pdf
 learning_resource_types:

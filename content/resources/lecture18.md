@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on Ginzburg-Landau expansion, Ginzburg-Landau
   equation, and comparison with  MQM.
-file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/5be78fdccb3cebdb858de63c268a0895_lecture18.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/5be78fdccb3cebdb858de63c268a0895_lecture18.pdf
 file_size: 123829
 file_type: application/pdf
 learning_resource_types:
