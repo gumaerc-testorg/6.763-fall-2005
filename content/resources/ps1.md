@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercises as assignment 1.
-file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/713dcd2f6b8c3e7c3d457ee83ffb7180_ps1.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/713dcd2f6b8c3e7c3d457ee83ffb7180_ps1.pdf
 file_size: 9637
 file_type: application/pdf
 learning_resource_types:

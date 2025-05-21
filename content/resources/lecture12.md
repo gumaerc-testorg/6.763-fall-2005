@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on SQUID equations, SQUID magnetometers,
   and Josephson loop vs SQUID loop.
-file: /ol-ocw-studio-app/courses/6-763-applied-superconductivity-fall-2005/c485ff655dd6168e0614445848899583_lecture12.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/c485ff655dd6168e0614445848899583_lecture12.pdf
 file_size: 144526
 file_type: application/pdf
 learning_resource_types:
