@@ -143,24 +143,24 @@ Foner, S., and T. P. Orlando. "Superconductors: The Long Road Ahead.'' _Technolo
 Web Sites
 ---------
 
-{{% resource_link "43067a13-a019-4e9e-b835-80b030149188" "Conductus" %}}
+[Conductus](http://www.suptech.com/)
 
-{{% resource_link "7b600914-9a1f-430c-9592-758b5c35d150" "Hypres" %}}
+[Hypres](http://www.hypres.com/)
 
-{{% resource_link "bd77a27d-52af-42e2-b580-a1a2e1a69091" "American Superconductor" %}}
+[American Superconductor](https://www.amsc.com/)
 
-{{% resource_link "bc96371e-cee2-4147-8ee1-5b4d50a8c593" "Can Superconductors" %}}
+[Can Superconductors](http://www.can-superconductors.com/)
 
-{{% resource_link "21f9aebf-12d3-4952-a8a5-98481a0e3d91" "Oxford Instruments" %}}
+[Oxford Instruments](http://www.oxinst.com/)
 
-{{% resource_link "b84a3286-04f3-4275-9b74-9eb6d6721611" "Wah Chang" %}}
+[Wah Chang](http://www.wahchang.com/)
 
-{{% resource_link "d8e51084-c022-44ee-b526-41f07b582002" "EPRI" %}}
+[EPRI](https://www.epri.com/#/?lang=en-US)
 
-{{% resource_link "c110eaff-5a69-478a-9631-6bc6cb5bb12b" "Applied Physics Systems" %}}
+[Applied Physics Systems](http://www.appliedphysics.com/)
 
-{{% resource_link "1cf9e62a-4def-4bff-87aa-c271741c3bb3" "Cryomagnetics" %}}
+[Cryomagnetics](http://www.cryomagnetics.com/)
 
-{{% resource_link "0fefd27e-fd1a-4002-83dc-93531ec39d73" "Superconductor Week" %}}
+[Superconductor Week](http://www.superconductorweek.com/)
 
-{{% resource_link "8f90d5ca-51e6-4234-bcda-56e7466b2216" "American Magnetics" %}}
+[American Magnetics](http://www.americanmagnetics.com/)
